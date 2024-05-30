@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JaywingTechTest.Web", "JaywingTechTest.Web\JaywingTechTest.Web.csproj", "{E9CF5989-DDED-4369-A7FE-08431EB008F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaywingTechTest.Models", "JaywingTechTest.Models\JaywingTechTest.Models.csproj", "{064B1703-8526-443A-98BC-E2C97113219B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JaywingTechTest.Models", "JaywingTechTest.Models\JaywingTechTest.Models.csproj", "{064B1703-8526-443A-98BC-E2C97113219B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaywingTechTest.Features", "JaywingTechTest.Features\JaywingTechTest.Features.csproj", "{EA467220-0196-4D50-A964-20792C9A054F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{064B1703-8526-443A-98BC-E2C97113219B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{064B1703-8526-443A-98BC-E2C97113219B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{064B1703-8526-443A-98BC-E2C97113219B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA467220-0196-4D50-A964-20792C9A054F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA467220-0196-4D50-A964-20792C9A054F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA467220-0196-4D50-A964-20792C9A054F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA467220-0196-4D50-A964-20792C9A054F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
