@@ -1,10 +1,10 @@
 # Jaywing Tech Test
 
-This site was created as part of a technical test for [Jaywing](https://www.jaywing.com/). It is a simple umbraco build with a call to a cat fact API.
+This site was created as part of a technical test for [Jaywing](https://www.jaywing.com/). It is a simple umbraco v13 build with a call to a cat fact API.
 
 ## Setup
 
-After cloning the project, install and run the npm build in the `src/JaywingTechTest.Frontend` folder:
+After cloning the project, install and run the npm `deploy` task in the `src/JaywingTechTest.Frontend` folder. I use node v22.2.0, so if you experience issues here, make sure you're using an up-to-date version of node and npm.
 
 ```bash
 npm install
